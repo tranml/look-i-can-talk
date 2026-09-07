@@ -1,0 +1,534 @@
+[
+  {
+    "id": 81,
+    "target": "Everybody, did George work or was he in grad school?",
+    "ipa": "ˈɛvriˌbʌdi, dɪd dʒɔrdʒ wɜrk ɔr wʌz hi ɪn ɡræd skul",
+    "mine": "Mọi người, George đi làm hay đang học cao học vậy?",
+    "speaker": "question"
+  },
+  {
+    "id": 82,
+    "target": "He worked. He wasn't in grad school.",
+    "ipa": "hi wɜrkt. hi ˈwʌzənt ɪn ɡræd skul.",
+    "mine": "Anh ấy đi làm. Anh ấy không học cao học.",
+    "speaker": "answer"
+  },
+  {
+    "id": 83,
+    "target": "Was he a student?",
+    "ipa": "wʌz hi ə ˈstudənt?",
+    "mine": "Anh ấy có phải là sinh viên không?",
+    "speaker": "question"
+  },
+  {
+    "id": 84,
+    "target": "No. He wasn't a student anymore. He had a job. He was working.",
+    "ipa": "noʊ. hi ˈwʌzənt ə ˈstudənt ˌɛniˈmɔr. hi hæd ə dʒɑb. hi wʌz ˈwɜrkɪŋ.",
+    "mine": "Không. Anh ấy không còn là sinh viên nữa. Anh ấy có việc làm. Anh ấy đang đi làm.",
+    "speaker": "answer"
+  },
+  {
+    "id": 85,
+    "target": "Did he have a high-paying job or a low-paying job?",
+    "ipa": "dɪd hi hæv ə haɪ ˈpeɪɪŋ dʒɑb ɔr ə loʊ ˈpeɪɪŋ dʒɑb?",
+    "mine": "Anh ấy có công việc lương cao hay lương thấp?",
+    "speaker": "question"
+  },
+  {
+    "id": 86,
+    "target": "A low-paying job. George had a low-paying job.",
+    "ipa": "ə loʊ ˈpeɪɪŋ dʒɑb. dʒɔrdʒ hæd ə loʊ ˈpeɪɪŋ dʒɑb.",
+    "mine": "Lương thấp. George có công việc lương thấp.",
+    "speaker": "answer"
+  },
+  {
+    "id": 87,
+    "target": "Where did George live?",
+    "ipa": "wɛr dɪd dʒɔrdʒ lɪv?",
+    "mine": "George sống ở đâu?",
+    "speaker": "question"
+  },
+  {
+    "id": 88,
+    "target": "On Kangaroo Island — an island in the south of Australia!",
+    "ipa": "ɑn ˌkæŋɡəˈru ˈaɪlənd — ən ˈaɪlənd ɪn ðə saʊθ ʌv ɔˈstreɪljə!",
+    "mine": "Ở đảo Kangaroo — một hòn đảo ở phía nam nước Úc!",
+    "speaker": "answer"
+  },
+  {
+    "id": 89,
+    "target": "Did he make lots of money on the island?",
+    "ipa": "dɪd hi meɪk lɑts ʌv ˈmʌni ɑn ði ˈaɪlənd?",
+    "mine": "Anh ấy có kiếm được nhiều tiền trên đảo không?",
+    "speaker": "question"
+  },
+  {
+    "id": 90,
+    "target": "No. He didn't.",
+    "ipa": "noʊ. hi ˈdɪdənt.",
+    "mine": "Không. Anh ấy không kiếm được.",
+    "speaker": "answer"
+  },
+  {
+    "id": 91,
+    "target": "He made very little money on the island.",
+    "ipa": "hi meɪd ˈvɛri ˈlɪtəl ˈmʌni ɑn ði ˈaɪlənd.",
+    "mine": "Anh ấy kiếm được rất ít tiền trên đảo.",
+    "speaker": "answer"
+  },
+  {
+    "id": 92,
+    "target": "He had a very low-paying job.",
+    "ipa": "hi hæd ə ˈvɛri loʊ ˈpeɪɪŋ dʒɑb.",
+    "mine": "Anh ấy có công việc lương rất thấp.",
+    "speaker": "answer"
+  },
+  {
+    "id": 93,
+    "target": "Everybody, what did George do for a living on Kangaroo Island?",
+    "ipa": "ˈɛvriˌbʌdi, wʌt dɪd dʒɔrdʒ du fɔr ə ˈlɪvɪŋ ɑn ˌkæŋɡəˈru ˈaɪlənd?",
+    "mine": "Mọi người, George làm nghề gì để kiếm sống trên đảo Kangaroo?",
+    "speaker": "question"
+  },
+  {
+    "id": 94,
+    "target": "A psychologist. He was a psychologist.",
+    "ipa": "ə saɪˈkɑlədʒɪst. hi wʌz ə saɪˈkɑlədʒɪst.",
+    "mine": "Nhà tâm lý học. Anh ấy là nhà tâm lý học.",
+    "speaker": "answer"
+  },
+  {
+    "id": 95,
+    "target": "George worked as a psychologist, which he really liked.",
+    "ipa": "dʒɔrdʒ wɜrkt æz ə saɪˈkɑlədʒɪst, wɪtʃ hi ˈrɪli laɪkt.",
+    "mine": "George làm nhà tâm lý học, và anh ấy rất thích công việc đó.",
+    "speaker": "AJAI:"
+  },
+  {
+    "id": 96,
+    "target": "Did he like his job?",
+    "ipa": "dɪd hi laɪk hɪz dʒɑb?",
+    "mine": "Anh ấy có thích công việc của mình không?",
+    "speaker": "question"
+  },
+  {
+    "id": 97,
+    "target": "Yes! He liked his job. He really liked helping his clients.",
+    "ipa": "jɛs! hi laɪkt hɪz dʒɑb. hi ˈrɪli laɪkt ˈhɛlpɪŋ hɪz ˈklaɪənts.",
+    "mine": "Có chứ! Anh ấy thích công việc của mình. Anh ấy rất thích giúp đỡ khách hàng.",
+    "speaker": "answer"
+  },
+  {
+    "id": 98,
+    "target": "But… did he make a lot of money as a psychologist?",
+    "ipa": "bʌt… dɪd hi meɪk ə lɑt ʌv ˈmʌni æz ə saɪˈkɑlədʒɪst?",
+    "mine": "Nhưng… anh ấy có kiếm được nhiều tiền khi làm nhà tâm lý học không?",
+    "speaker": "question"
+  },
+  {
+    "id": 99,
+    "target": "No! He made very little money.",
+    "ipa": "noʊ! hi meɪd ˈvɛri ˈlɪtəl ˈmʌni.",
+    "mine": "Không! Anh ấy kiếm được rất ít tiền.",
+    "speaker": "answer"
+  },
+  {
+    "id": 100,
+    "target": "So how did he feel?",
+    "ipa": "soʊ haʊ dɪd hi fil?",
+    "mine": "Vậy anh ấy cảm thấy thế nào?",
+    "speaker": "question"
+  },
+  {
+    "id": 101,
+    "target": "He was sad. He was angry.",
+    "ipa": "hi wʌz sæd. hi wʌz ˈæŋɡri.",
+    "mine": "Anh ấy buồn. Anh ấy tức giận.",
+    "speaker": "answer"
+  },
+  {
+    "id": 102,
+    "target": "Why was he sad?",
+    "ipa": "waɪ wʌz hi sæd?",
+    "mine": "Tại sao anh ấy buồn?",
+    "speaker": "question"
+  },
+  {
+    "id": 103,
+    "target": "Because he liked his job, but he made very little money.",
+    "ipa": "bɪˈkɔz hi laɪkt hɪz dʒɑb, bʌt hi meɪd ˈvɛri ˈlɪtəl ˈmʌni.",
+    "mine": "Vì anh ấy thích công việc của mình, nhưng lại kiếm được rất ít tiền.",
+    "speaker": "answer"
+  },
+  {
+    "id": 104,
+    "target": "Did he hate his job?",
+    "ipa": "dɪd hi heɪt hɪz dʒɑb?",
+    "mine": "Anh ấy có ghét công việc của mình không?",
+    "speaker": "question"
+  },
+  {
+    "id": 105,
+    "target": "No! He didn't hate his job. He loved helping people.",
+    "ipa": "noʊ! hi ˈdɪdənt heɪt hɪz dʒɑb. hi lʌvd ˈhɛlpɪŋ ˈpipəl.",
+    "mine": "Không! Anh ấy không ghét công việc của mình. Anh ấy rất thích giúp đỡ người khác.",
+    "speaker": "answer"
+  },
+  {
+    "id": 106,
+    "target": "What did George like about what he did for a living?",
+    "ipa": "wʌt dɪd dʒɔrdʒ laɪk əˈbaʊt wʌt hi dɪd fɔr ə ˈlɪvɪŋ?",
+    "mine": "George thích điều gì ở công việc mình làm để kiếm sống?",
+    "speaker": "question"
+  },
+  {
+    "id": 107,
+    "target": "He really liked helping people. In fact, he loved helping his clients.",
+    "ipa": "hi ˈrɪli laɪkt ˈhɛlpɪŋ ˈpipəl. ɪn fækt, hi lʌvd ˈhɛlpɪŋ hɪz ˈklaɪənts.",
+    "mine": "Anh ấy rất thích giúp đỡ người khác. Thật ra, anh ấy rất thích giúp đỡ khách hàng của mình.",
+    "speaker": "answer"
+  },
+  {
+    "id": 108,
+    "target": "Was George a waiter?",
+    "ipa": "wʌz dʒɔrdʒ ə ˈweɪtər?",
+    "mine": "George có phải là bồi bàn không?",
+    "speaker": "question"
+  },
+  {
+    "id": 109,
+    "target": "No! George wasn't a waiter. He was a psychologist.",
+    "ipa": "noʊ! dʒɔrdʒ ˈwʌzənt ə ˈweɪtər. hi wʌz ə saɪˈkɑlədʒɪst.",
+    "mine": "Không! George không phải là bồi bàn. Anh ấy là nhà tâm lý học.",
+    "speaker": "answer"
+  },
+  {
+    "id": 110,
+    "target": "Was he a psychologist or a waiter?",
+    "ipa": "wʌz hi ə saɪˈkɑlədʒɪst ɔr ə ˈweɪtər?",
+    "mine": "Anh ấy là nhà tâm lý học hay bồi bàn?",
+    "speaker": "question"
+  },
+  {
+    "id": 111,
+    "target": "A psychologist. George was a psychologist.",
+    "ipa": "ə saɪˈkɑlədʒɪst. dʒɔrdʒ wʌz ə saɪˈkɑlədʒɪst.",
+    "mine": "Nhà tâm lý học. George là nhà tâm lý học.",
+    "speaker": "answer"
+  },
+  {
+    "id": 112,
+    "target": "He wasn't a waiter.",
+    "ipa": "hi ˈwʌzənt ə ˈweɪtər.",
+    "mine": "Anh ấy không phải là bồi bàn.",
+    "speaker": "answer"
+  },
+  {
+    "id": 113,
+    "target": "Did George like his job or did he hate it?",
+    "ipa": "dɪd dʒɔrdʒ laɪk hɪz dʒɑb ɔr dɪd hi heɪt ɪt?",
+    "mine": "George thích công việc của mình hay ghét nó?",
+    "speaker": "question"
+  },
+  {
+    "id": 114,
+    "target": "He really liked his job.",
+    "ipa": "hi ˈrɪli laɪkt hɪz dʒɑb.",
+    "mine": "Anh ấy rất thích công việc của mình.",
+    "speaker": "answer"
+  },
+  {
+    "id": 115,
+    "target": "He didn't hate it.",
+    "ipa": "hi ˈdɪdənt heɪt ɪt.",
+    "mine": "Anh ấy không ghét nó.",
+    "speaker": "answer"
+  },
+  {
+    "id": 116,
+    "target": "He really liked helping his clients.",
+    "ipa": "hi ˈrɪli laɪkt ˈhɛlpɪŋ hɪz ˈklaɪənts.",
+    "mine": "Anh ấy rất thích giúp đỡ khách hàng của mình.",
+    "speaker": "answer"
+  },
+  {
+    "id": 117,
+    "target": "He loved helping people.",
+    "ipa": "hi lʌvd ˈhɛlpɪŋ ˈpipəl.",
+    "mine": "Anh ấy rất thích giúp đỡ người khác.",
+    "speaker": "answer"
+  },
+  {
+    "id": 118,
+    "target": "What was his job?",
+    "ipa": "wʌt wʌz hɪz dʒɑb?",
+    "mine": "Công việc của anh ấy là gì?",
+    "speaker": "question"
+  },
+  {
+    "id": 119,
+    "target": "He was a psychologist.",
+    "ipa": "hi wʌz ə saɪˈkɑlədʒɪst.",
+    "mine": "Anh ấy là nhà tâm lý học.",
+    "speaker": "answer"
+  },
+  {
+    "id": 120,
+    "target": "But there was one problem: he made very little money as a psychologist.",
+    "ipa": "bʌt ðɛr wʌz wʌn ˈprɑbləm: hi meɪd ˈvɛri ˈlɪtəl ˈmʌni æz ə saɪˈkɑlədʒɪst.",
+    "mine": "Nhưng có một vấn đề: anh ấy kiếm được rất ít tiền khi làm nhà tâm lý học.",
+    "speaker": "AJAI:"
+  },
+  {
+    "id": 121,
+    "target": "He was barely scraping by.",
+    "ipa": "hi wʌz ˈbɛrli ˈskreɪpɪŋ baɪ.",
+    "mine": "Anh ấy chỉ vừa đủ sống qua ngày.",
+    "speaker": ""
+  },
+  {
+    "id": 122,
+    "target": "Everybody, one day, George said, \"I can't stand this situation anymore.\"",
+    "ipa": "ˈɛvriˌbʌdi, wʌn deɪ, dʒɔrdʒ sɛd, \"aɪ kænt stænd ðɪs ˌsɪtʃuˈeɪʃən ˌɛniˈmɔr.\"",
+    "mine": "Mọi người, một ngày nọ, George nói: \"Tôi không thể chịu đựng tình cảnh này thêm nữa.\"",
+    "speaker": "AJAI:"
+  },
+  {
+    "id": 123,
+    "target": "Did George like his situation?",
+    "ipa": "dɪd dʒɔrdʒ laɪk hɪz ˌsɪtʃuˈeɪʃən?",
+    "mine": "George có thích tình cảnh của mình không?",
+    "speaker": "question"
+  },
+  {
+    "id": 124,
+    "target": "No! George didn't like it. He couldn't stand it anymore.",
+    "ipa": "noʊ! dʒɔrdʒ ˈdɪdənt laɪk ɪt. hi ˈkʊdənt stænd ɪt ˌɛniˈmɔr.",
+    "mine": "Không! George không thích tình cảnh đó. Anh ấy không thể chịu đựng thêm được nữa.",
+    "speaker": "answer"
+  },
+  {
+    "id": 125,
+    "target": "What did George say?",
+    "ipa": "wʌt dɪd dʒɔrdʒ seɪ?",
+    "mine": "George đã nói gì?",
+    "speaker": "question"
+  },
+  {
+    "id": 126,
+    "target": "He said, \"I can't stand this situation anymore.\"",
+    "ipa": "hi sɛd, \"aɪ kænt stænd ðɪs ˌsɪtʃuˈeɪʃən ˌɛniˈmɔr.\"",
+    "mine": "Anh ấy nói: \"Tôi không thể chịu đựng tình cảnh này thêm nữa.\"",
+    "speaker": "answer"
+  },
+  {
+    "id": 127,
+    "target": "Everybody, George made a huge decision.",
+    "ipa": "ˈɛvriˌbʌdi, dʒɔrdʒ meɪd ə hjudʒ dɪˈsɪʒən.",
+    "mine": "Mọi người, George đã đưa ra một quyết định lớn.",
+    "speaker": "AJAI:"
+  },
+  {
+    "id": 128,
+    "target": "He decided to move to another country.",
+    "ipa": "hi dɪˈsaɪdɪd tu muv tu əˈnʌðər ˈkʌntri.",
+    "mine": "Anh ấy quyết định chuyển sang một nước khác.",
+    "speaker": ""
+  },
+  {
+    "id": 129,
+    "target": "Did he decide to stay on Kangaroo Island?",
+    "ipa": "dɪd hi dɪˈsaɪd tu steɪ ɑn ˌkæŋɡəˈru ˈaɪlənd?",
+    "mine": "Anh ấy có quyết định ở lại đảo Kangaroo không?",
+    "speaker": "question"
+  },
+  {
+    "id": 130,
+    "target": "No. He didn't.",
+    "ipa": "noʊ. hi ˈdɪdənt.",
+    "mine": "Không. Anh ấy không ở lại.",
+    "speaker": "answer"
+  },
+  {
+    "id": 131,
+    "target": "He didn't decide to stay on Kangaroo Island.",
+    "ipa": "hi ˈdɪdənt dɪˈsaɪd tu steɪ ɑn ˌkæŋɡəˈru ˈaɪlənd.",
+    "mine": "Anh ấy không quyết định ở lại đảo Kangaroo.",
+    "speaker": "answer"
+  },
+  {
+    "id": 132,
+    "target": "Did George decide to move to another country or stay on Kangaroo Island?",
+    "ipa": "dɪd dʒɔrdʒ dɪˈsaɪd tu muv tu əˈnʌðər ˈkʌntri ɔr steɪ ɑn ˌkæŋɡəˈru ˈaɪlənd?",
+    "mine": "George quyết định chuyển sang nước khác hay ở lại đảo Kangaroo?",
+    "speaker": "question"
+  },
+  {
+    "id": 133,
+    "target": "To move to another country!",
+    "ipa": "tu muv tu əˈnʌðər ˈkʌntri!",
+    "mine": "Chuyển sang nước khác!",
+    "speaker": "answer"
+  },
+  {
+    "id": 134,
+    "target": "George decided to leave Kangaroo Island.",
+    "ipa": "dʒɔrdʒ dɪˈsaɪdɪd tu liv ˌkæŋɡəˈru ˈaɪlənd.",
+    "mine": "George quyết định rời khỏi đảo Kangaroo.",
+    "speaker": "answer"
+  },
+  {
+    "id": 135,
+    "target": "What did George decide to do?",
+    "ipa": "wʌt dɪd dʒɔrdʒ dɪˈsaɪd tu du?",
+    "mine": "George quyết định làm gì?",
+    "speaker": "question"
+  },
+  {
+    "id": 136,
+    "target": "He decided to move to another country.",
+    "ipa": "hi dɪˈsaɪdɪd tu muv tu əˈnʌðər ˈkʌntri.",
+    "mine": "Anh ấy quyết định chuyển sang một nước khác.",
+    "speaker": "answer"
+  },
+  {
+    "id": 137,
+    "target": "Why did George move to another country?",
+    "ipa": "waɪ dɪd dʒɔrdʒ muv tu əˈnʌðər ˈkʌntri?",
+    "mine": "Tại sao George lại chuyển sang nước khác?",
+    "speaker": "question"
+  },
+  {
+    "id": 138,
+    "target": "Because he wanted to work with rich clients.",
+    "ipa": "bɪˈkɔz hi ˈwɑntɪd tu wɜrk wɪð rɪtʃ ˈklaɪənts.",
+    "mine": "Vì anh ấy muốn làm việc với những khách hàng giàu có.",
+    "speaker": "answer"
+  },
+  {
+    "id": 139,
+    "target": "Did he want to work with rich clients?",
+    "ipa": "dɪd hi wɑnt tu wɜrk wɪð rɪtʃ ˈklaɪənts?",
+    "mine": "Anh ấy có muốn làm việc với khách hàng giàu có không?",
+    "speaker": "question"
+  },
+  {
+    "id": 140,
+    "target": "That's right! He wanted to work with rich clients.",
+    "ipa": "ðæts raɪt! hi ˈwɑntɪd tu wɜrk wɪð rɪtʃ ˈklaɪənts.",
+    "mine": "Đúng vậy! Anh ấy muốn làm việc với khách hàng giàu có.",
+    "speaker": "answer"
+  },
+  {
+    "id": 141,
+    "target": "Did George want to work with rich clients or poor clients?",
+    "ipa": "dɪd dʒɔrdʒ wɑnt tu wɜrk wɪð rɪtʃ ˈklaɪənts ɔr pʊr ˈklaɪənts?",
+    "mine": "George muốn làm việc với khách hàng giàu có hay nghèo?",
+    "speaker": "question"
+  },
+  {
+    "id": 142,
+    "target": "Rich clients! George wanted to work with rich clients.",
+    "ipa": "rɪtʃ ˈklaɪənts! dʒɔrdʒ ˈwɑntɪd tu wɜrk wɪð rɪtʃ ˈklaɪənts.",
+    "mine": "Khách hàng giàu có! George muốn làm việc với khách hàng giàu có.",
+    "speaker": "answer"
+  },
+  {
+    "id": 143,
+    "target": "Did George want to work with poor clients?",
+    "ipa": "dɪd dʒɔrdʒ wɑnt tu wɜrk wɪð pʊr ˈklaɪənts?",
+    "mine": "George có muốn làm việc với khách hàng nghèo không?",
+    "speaker": "question"
+  },
+  {
+    "id": 144,
+    "target": "Of course not!",
+    "ipa": "ʌv kɔrs nɑt!",
+    "mine": "Tất nhiên là không!",
+    "speaker": "answer"
+  },
+  {
+    "id": 145,
+    "target": "George didn't want to work with poor clients at all.",
+    "ipa": "dʒɔrdʒ ˈdɪdənt wɑnt tu wɜrk wɪð pʊr ˈklaɪənts æt ɔl.",
+    "mine": "George hoàn toàn không muốn làm việc với khách hàng nghèo.",
+    "speaker": "answer"
+  },
+  {
+    "id": 146,
+    "target": "He only wanted to work with rich clients.",
+    "ipa": "hi ˈoʊnli ˈwɑntɪd tu wɜrk wɪð rɪtʃ ˈklaɪənts.",
+    "mine": "Anh ấy chỉ muốn làm việc với khách hàng giàu có thôi.",
+    "speaker": "answer"
+  },
+  {
+    "id": 147,
+    "target": "What kind of client did he want to work with?",
+    "ipa": "wʌt kaɪnd ʌv ˈklaɪənt dɪd hi wɑnt tu wɜrk wɪð?",
+    "mine": "Anh ấy muốn làm việc với loại khách hàng nào?",
+    "speaker": "question"
+  },
+  {
+    "id": 148,
+    "target": "Rich clients. He wanted to work with rich clients.",
+    "ipa": "rɪtʃ ˈklaɪənts. hi ˈwɑntɪd tu wɜrk wɪð rɪtʃ ˈklaɪənts.",
+    "mine": "Khách hàng giàu có. Anh ấy muốn làm việc với khách hàng giàu có.",
+    "speaker": "answer"
+  },
+  {
+    "id": 149,
+    "target": "Why did he want to work with rich clients?",
+    "ipa": "waɪ dɪd hi wɑnt tu wɜrk wɪð rɪtʃ ˈklaɪənts?",
+    "mine": "Tại sao anh ấy lại muốn làm việc với khách hàng giàu có?",
+    "speaker": "question"
+  },
+  {
+    "id": 150,
+    "target": "Because he wanted to make lots and lots of money as a psychologist.",
+    "ipa": "bɪˈkɔz hi ˈwɑntɪd tu meɪk lɑts ənd lɑts ʌv ˈmʌni æz ə saɪˈkɑlədʒɪst.",
+    "mine": "Vì anh ấy muốn kiếm thật nhiều tiền khi làm nhà tâm lý học.",
+    "speaker": "answer"
+  },
+  {
+    "id": 151,
+    "target": "Which psychologist wanted to work with rich clients?",
+    "ipa": "wɪtʃ saɪˈkɑlədʒɪst ˈwɑntɪd tu wɜrk wɪð rɪtʃ ˈklaɪənts?",
+    "mine": "Nhà tâm lý học nào muốn làm việc với khách hàng giàu có?",
+    "speaker": "question"
+  },
+  {
+    "id": 152,
+    "target": "George did.",
+    "ipa": "dʒɔrdʒ dɪd.",
+    "mine": "George đấy.",
+    "speaker": "answer"
+  },
+  {
+    "id": 153,
+    "target": "George was a psychologist,",
+    "ipa": "dʒɔrdʒ wʌz ə saɪˈkɑlədʒɪst,",
+    "mine": "George là nhà tâm lý học,",
+    "speaker": "answer"
+  },
+  {
+    "id": 154,
+    "target": "and he only wanted to work with rich clients.",
+    "ipa": "ənd hi ˈoʊnli ˈwɑntɪd tu wɜrk wɪð rɪtʃ ˈklaɪənts.",
+    "mine": "và anh ấy chỉ muốn làm việc với khách hàng giàu có thôi.",
+    "speaker": "answer"
+  },
+  {
+    "id": 155,
+    "target": "Everybody, George decided to go to Switzerland to work with rich clients.",
+    "ipa": "ˈɛvriˌbʌdi, dʒɔrdʒ dɪˈsaɪdɪd tu ɡoʊ tu ˈswɪtsərlənd tu wɜrk wɪð rɪtʃ ˈklaɪənts.",
+    "mine": "Mọi người, George quyết định sang Thụy Sĩ để làm việc với khách hàng giàu có.",
+    "speaker": "AJAI:"
+  },
+  {
+    "id": 156,
+    "target": "But this would be a bad decision.",
+    "ipa": "bʌt ðɪs wʊd bi ə bæd dɪˈsɪʒən.",
+    "mine": "Nhưng đây sẽ là một quyết định sai lầm.",
+    "speaker": ""
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "id": 81,
+    "start": 475.006,
+    "end": 481.956,
+    "target": "Everybody, did George work or was he in grad school?"
+  },
+  {
+    "id": 82,
+    "start": 482.505,
+    "end": 486.142,
+    "target": "He worked. He wasn't in grad school."
+  },
+  {
+    "id": 83,
+    "start": 487.014,
+    "end": 489.353,
+    "target": "Was he a student?"
+  },
+  {
+    "id": 84,
+    "start": 490.585,
+    "end": 500.351,
+    "target": "No. He wasn't a student anymore. He had a job. He was working."
+  },
+  {
+    "id": 85,
+    "start": 500.351,
+    "end": 505.444,
+    "target": "Did he have a high-paying job or a low-paying job?"
+  },
+  {
+    "id": 86,
+    "start": 505.444,
+    "end": 512.73,
+    "target": "A low-paying job. George had a low-paying job."
+  },
+  {
+    "id": 87,
+    "start": 513.565,
+    "end": 516.133,
+    "target": "Where did George live?"
+  },
+  {
+    "id": 88,
+    "start": 517.184,
+    "end": 525.436,
+    "target": "On Kangaroo Island — an island in the south of Australia!"
+  },
+  {
+    "id": 89,
+    "start": 526.411,
+    "end": 530.189,
+    "target": "Did he make lots of money on the island?"
+  },
+  {
+    "id": 90,
+    "start": 530.189,
+    "end": 534.331,
+    "target": "No. He didn't."
+  },
+  {
+    "id": 91,
+    "start": 534.331,
+    "end": 538.571,
+    "target": "He made very little money on the island."
+  },
+  {
+    "id": 92,
+    "start": 538.571,
+    "end": 541.574,
+    "target": "He had a very low-paying job."
+  },
+  {
+    "id": 93,
+    "start": 543.928,
+    "end": 550.224,
+    "target": "Everybody, what did George do for a living on Kangaroo Island?"
+  },
+  {
+    "id": 94,
+    "start": 551.565,
+    "end": 557.597,
+    "target": "A psychologist. He was a psychologist."
+  },
+  {
+    "id": 95,
+    "start": 559.095,
+    "end": 563.763,
+    "target": "George worked as a psychologist, which he really liked."
+  },
+  {
+    "id": 96,
+    "start": 564.456,
+    "end": 567.85,
+    "target": "Did he like his job?"
+  },
+  {
+    "id": 97,
+    "start": 568.741,
+    "end": 576.569,
+    "target": "Yes! He liked his job. He really liked helping his clients."
+  },
+  {
+    "id": 98,
+    "start": 577.236,
+    "end": 582.89,
+    "target": "But… did he make a lot of money as a psychologist?"
+  },
+  {
+    "id": 99,
+    "start": 583.456,
+    "end": 590.531,
+    "target": "No! He made very little money."
+  },
+  {
+    "id": 100,
+    "start": 591.298,
+    "end": 594.051,
+    "target": "So how did he feel?"
+  },
+  {
+    "id": 101,
+    "start": 595.313,
+    "end": 598.857,
+    "target": "He was sad. He was angry."
+  },
+  {
+    "id": 102,
+    "start": 599.694,
+    "end": 603.246,
+    "target": "Why was he sad?"
+  },
+  {
+    "id": 103,
+    "start": 604.455,
+    "end": 611.319,
+    "target": "Because he liked his job, but he made very little money."
+  },
+  {
+    "id": 104,
+    "start": 612.255,
+    "end": 613.978,
+    "target": "Did he hate his job?"
+  },
+  {
+    "id": 105,
+    "start": 615.415,
+    "end": 621.09,
+    "target": "No! He didn't hate his job. He loved helping people."
+  },
+  {
+    "id": 106,
+    "start": 621.983,
+    "end": 626.597,
+    "target": "What did George like about what he did for a living?"
+  },
+  {
+    "id": 107,
+    "start": 627.277,
+    "end": 635.35,
+    "target": "He really liked helping people. In fact, he loved helping his clients."
+  },
+  {
+    "id": 108,
+    "start": 636.541,
+    "end": 637.871,
+    "target": "Was George a waiter?"
+  },
+  {
+    "id": 109,
+    "start": 638.465,
+    "end": 646.399,
+    "target": "No! George wasn't a waiter. He was a psychologist."
+  },
+  {
+    "id": 110,
+    "start": 647.3,
+    "end": 651.371,
+    "target": "Was he a psychologist or a waiter?"
+  },
+  {
+    "id": 111,
+    "start": 651.917,
+    "end": 658.576,
+    "target": "A psychologist. George was a psychologist."
+  },
+  {
+    "id": 112,
+    "start": 658.576,
+    "end": 662.359,
+    "target": "He wasn't a waiter."
+  },
+  {
+    "id": 113,
+    "start": 663.031,
+    "end": 666.591,
+    "target": "Did George like his job or did he hate it?"
+  },
+  {
+    "id": 114,
+    "start": 667.321,
+    "end": 670.788,
+    "target": "He really liked his job."
+  },
+  {
+    "id": 115,
+    "start": 671.263,
+    "end": 672.598,
+    "target": "He didn't hate it."
+  },
+  {
+    "id": 116,
+    "start": 672.598,
+    "end": 676.307,
+    "target": "He really liked helping his clients."
+  },
+  {
+    "id": 117,
+    "start": 676.307,
+    "end": 679.107,
+    "target": "He loved helping people."
+  },
+  {
+    "id": 118,
+    "start": 679.65,
+    "end": 682.722,
+    "target": "What was his job?"
+  },
+  {
+    "id": 119,
+    "start": 683.272,
+    "end": 687.778,
+    "target": "He was a psychologist."
+  },
+  {
+    "id": 120,
+    "start": 689.134,
+    "end": 697.008,
+    "target": "But there was one problem: he made very little money as a psychologist."
+  },
+  {
+    "id": 121,
+    "start": 697.503,
+    "end": 701.503,
+    "target": "He was barely scraping by."
+  },
+  {
+    "id": 122,
+    "start": 702.791,
+    "end": 713.107,
+    "target": "Everybody, one day, George said, \"I can't stand this situation anymore.\""
+  },
+  {
+    "id": 123,
+    "start": 713.731,
+    "end": 717.782,
+    "target": "Did George like his situation?"
+  },
+  {
+    "id": 124,
+    "start": 719.02,
+    "end": 724.045,
+    "target": "No! George didn't like it. He couldn't stand it anymore."
+  },
+  {
+    "id": 125,
+    "start": 725.231,
+    "end": 727.043,
+    "target": "What did George say?"
+  },
+  {
+    "id": 126,
+    "start": 727.887,
+    "end": 733.821,
+    "target": "He said, \"I can't stand this situation anymore.\""
+  },
+  {
+    "id": 127,
+    "start": 734.4,
+    "end": 740.43,
+    "target": "Everybody, George made a huge decision."
+  },
+  {
+    "id": 128,
+    "start": 741.008,
+    "end": 745.813,
+    "target": "He decided to move to another country."
+  },
+  {
+    "id": 129,
+    "start": 746.849,
+    "end": 751.567,
+    "target": "Did he decide to stay on Kangaroo Island?"
+  },
+  {
+    "id": 130,
+    "start": 752.146,
+    "end": 755.662,
+    "target": "No. He didn't."
+  },
+  {
+    "id": 131,
+    "start": 755.662,
+    "end": 759.802,
+    "target": "He didn't decide to stay on Kangaroo Island."
+  },
+  {
+    "id": 132,
+    "start": 760.427,
+    "end": 768.153,
+    "target": "Did George decide to move to another country or stay on Kangaroo Island?"
+  },
+  {
+    "id": 133,
+    "start": 768.946,
+    "end": 772.264,
+    "target": "To move to another country!"
+  },
+  {
+    "id": 134,
+    "start": 772.808,
+    "end": 777.326,
+    "target": "George decided to leave Kangaroo Island."
+  },
+  {
+    "id": 135,
+    "start": 778.531,
+    "end": 780.869,
+    "target": "What did George decide to do?"
+  },
+  {
+    "id": 136,
+    "start": 781.689,
+    "end": 785.768,
+    "target": "He decided to move to another country."
+  },
+  {
+    "id": 137,
+    "start": 786.274,
+    "end": 792.064,
+    "target": "Why did George move to another country?"
+  },
+  {
+    "id": 138,
+    "start": 793.381,
+    "end": 796.88,
+    "target": "Because he wanted to work with rich clients."
+  },
+  {
+    "id": 139,
+    "start": 797.638,
+    "end": 801.065,
+    "target": "Did he want to work with rich clients?"
+  },
+  {
+    "id": 140,
+    "start": 802.292,
+    "end": 808.995,
+    "target": "That's right! He wanted to work with rich clients."
+  },
+  {
+    "id": 141,
+    "start": 809.756,
+    "end": 814.723,
+    "target": "Did George want to work with rich clients or poor clients?"
+  },
+  {
+    "id": 142,
+    "start": 815.345,
+    "end": 822.086,
+    "target": "Rich clients! George wanted to work with rich clients."
+  },
+  {
+    "id": 143,
+    "start": 823.487,
+    "end": 827.419,
+    "target": "Did George want to work with poor clients?"
+  },
+  {
+    "id": 144,
+    "start": 828.753,
+    "end": 830.726,
+    "target": "Of course not!"
+  },
+  {
+    "id": 145,
+    "start": 830.726,
+    "end": 835.73,
+    "target": "George didn't want to work with poor clients at all."
+  },
+  {
+    "id": 146,
+    "start": 835.73,
+    "end": 839.303,
+    "target": "He only wanted to work with rich clients."
+  },
+  {
+    "id": 147,
+    "start": 839.865,
+    "end": 843.839,
+    "target": "What kind of client did he want to work with?"
+  },
+  {
+    "id": 148,
+    "start": 844.441,
+    "end": 851.13,
+    "target": "Rich clients. He wanted to work with rich clients."
+  },
+  {
+    "id": 149,
+    "start": 851.76,
+    "end": 857.394,
+    "target": "Why did he want to work with rich clients?"
+  },
+  {
+    "id": 150,
+    "start": 858.888,
+    "end": 864.128,
+    "target": "Because he wanted to make lots and lots of money as a psychologist."
+  },
+  {
+    "id": 151,
+    "start": 864.954,
+    "end": 870.715,
+    "target": "Which psychologist wanted to work with rich clients?"
+  },
+  {
+    "id": 152,
+    "start": 871.596,
+    "end": 873.5,
+    "target": "George did."
+  },
+  {
+    "id": 153,
+    "start": 873.796,
+    "end": 876.447,
+    "target": "George was a psychologist,"
+  },
+  {
+    "id": 154,
+    "start": 876.447,
+    "end": 882.134,
+    "target": "and he only wanted to work with rich clients."
+  },
+  {
+    "id": 155,
+    "start": 883.473,
+    "end": 891.263,
+    "target": "Everybody, George decided to go to Switzerland to work with rich clients."
+  },
+  {
+    "id": 156,
+    "start": 892.414,
+    "end": 896.323,
+    "target": "But this would be a bad decision."
+  }
+]
