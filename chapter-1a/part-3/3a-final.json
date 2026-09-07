@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "start": 0.1,
+    "end": 5.991,
+    "target": "Everybody, there was a problem.",
+    "ipa": "ˈɛvɹiˌbɑdi, ðɛɹ wəz ə ˈprɑbləm.",
+    "mine": "Mọi người ơi, có một vấn đề.",
+    "speaker": "AJ Hoge:"
+  },
+  {
+    "id": 2,
+    "start": 7.015,
+    "end": 15.126,
+    "target": "Everybody, George didn't have a high-paying job.",
+    "ipa": "ˈɛvɹiˌbɑdi, dʒɔɹdʒ ˈdɪdənt hæv ə ˈhaɪˌpeɪɪŋ dʒɑb.",
+    "mine": "Mọi người ơi, George không có một công việc lương cao.",
+    "speaker": ""
+  },
+  {
+    "id": 3,
+    "start": 16.227,
+    "end": 18.491,
+    "target": "What didn't George have?",
+    "ipa": "wʌt ˈdɪdənt dʒɔɹdʒ hæv?",
+    "mine": "George không có gì?",
+    "speaker": "question"
+  },
+  {
+    "id": 4,
+    "start": 19.085,
+    "end": 26.332,
+    "target": "A high-paying job. George didn't have a high-paying job.",
+    "ipa": "ə ˈhaɪˌpeɪɪŋ dʒɑb. dʒɔɹdʒ ˈdɪdənt hæv ə ˈhaɪˌpeɪɪŋ dʒɑb.",
+    "mine": "Một công việc lương cao. George không có công việc lương cao.",
+    "speaker": "answer"
+  },
+  {
+    "id": 5,
+    "start": 27.118,
+    "end": 32.512,
+    "target": "Did George have a high-paying job or a low-paying job?",
+    "ipa": "dɪd dʒɔɹdʒ hæv ə ˈhaɪˌpeɪɪŋ dʒɑb ɔɹ ə ˈloʊˌpeɪɪŋ dʒɑb?",
+    "mine": "George có một công việc lương cao hay một công việc lương thấp?",
+    "speaker": "question"
+  },
+  {
+    "id": 6,
+    "start": 33.103,
+    "end": 42.558,
+    "target": "A low-paying job! George had a low-paying job. He didn't have a high-paying job.",
+    "ipa": "ə ˈloʊˌpeɪɪŋ dʒɑb! dʒɔɹdʒ hæd ə ˈloʊˌpeɪɪŋ dʒɑb. hi ˈdɪdənt hæv ə ˈhaɪˌpeɪɪŋ dʒɑb.",
+    "mine": "Một công việc lương thấp! George có một công việc lương thấp. Anh ấy không có công việc lương cao.",
+    "speaker": "answer"
+  },
+  {
+    "id": 7,
+    "start": 43.306,
+    "end": 45.963,
+    "target": "Was George unemployed?",
+    "ipa": "wəz dʒɔɹdʒ ˌʌnɪmˈplɔɪd?",
+    "mine": "George có thất nghiệp không?",
+    "speaker": "question"
+  },
+  {
+    "id": 8,
+    "start": 46.917,
+    "end": 54.5,
+    "target": "No, he wasn't. George had a job. But it was a low-paying job.",
+    "ipa": "noʊ, hi ˈwɑzənt. dʒɔɹdʒ hæd ə dʒɑb. bət ɪt wəz ə ˈloʊˌpeɪɪŋ dʒɑb.",
+    "mine": "Không, anh ấy không thất nghiệp. George có việc làm. Nhưng đó là một công việc lương thấp.",
+    "speaker": "answer"
+  },
+  {
+    "id": 9,
+    "start": 55.218,
+    "end": 58.134,
+    "target": "Who didn't have a high-paying job?",
+    "ipa": "hu ˈdɪdənt hæv ə ˈhaɪˌpeɪɪŋ dʒɑb?",
+    "mine": "Ai không có công việc lương cao?",
+    "speaker": "question"
+  },
+  {
+    "id": 10,
+    "start": 58.871,
+    "end": 63.772,
+    "target": "George. George didn't have one.",
+    "ipa": "dʒɔɹdʒ. dʒɔɹdʒ ˈdɪdənt hæv wʌn.",
+    "mine": "George. George không có công việc lương cao.",
+    "speaker": "answer"
+  },
+  {
+    "id": 11,
+    "start": 64.897,
+    "end": 67.94,
+    "target": "What kind of job did George have?",
+    "ipa": "wʌt kaɪnd əv dʒɑb dɪd dʒɔɹdʒ hæv?",
+    "mine": "George có công việc như thế nào?",
+    "speaker": "question"
+  },
+  {
+    "id": 12,
+    "start": 69.099,
+    "end": 75.712,
+    "target": "A low-paying job. George had a low-paying job.",
+    "ipa": "ə ˈloʊˌpeɪɪŋ dʒɑb. dʒɔɹdʒ hæd ə ˈloʊˌpeɪɪŋ dʒɑb.",
+    "mine": "Một công việc lương thấp. George có một công việc lương thấp.",
+    "speaker": "answer"
+  },
+  {
+    "id": 13,
+    "start": 76.506,
+    "end": 79.889,
+    "target": "Where didn't George have a high-paying job?",
+    "ipa": "wɛr ˈdɪdənt dʒɔɹdʒ hæv ə ˈhaɪˌpeɪɪŋ dʒɑb?",
+    "mine": "George không có công việc lương cao ở đâu?",
+    "speaker": "question"
+  },
+  {
+    "id": 14,
+    "start": 80.924,
+    "end": 92.636,
+    "target": "On Kangaroo Island. He didn't have a high-paying job on Kangaroo Island, in the south of Australia.",
+    "ipa": "ɑn ˌkæŋɡəˈruː ˈaɪlənd. hi ˈdɪdənt hæv ə ˈhaɪˌpeɪɪŋ dʒɑb ɑn ˌkæŋɡəˈruː ˈaɪlənd, ɪn ðə saʊθ əv ɔˈstreɪljə.",
+    "mine": "Ở đảo Kangaroo. Anh ấy không có công việc lương cao trên đảo Kangaroo, ở miền nam nước Úc.",
+    "speaker": "answer"
+  },
+  {
+    "id": 15,
+    "start": 93.184,
+    "end": 100.916,
+    "target": "Everybody, George wanted a high-paying job.",
+    "ipa": "ˈɛvɹiˌbɑdi, dʒɔɹdʒ ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb.",
+    "mine": "Mọi người, George muốn có một công việc lương cao.",
+    "speaker": "AJ Hoge:"
+  },
+  {
+    "id": 16,
+    "start": 102.56,
+    "end": 106.585,
+    "target": "Did George want a high-paying job?",
+    "ipa": "dɪd dʒɔɹdʒ wɑnt ə ˈhaɪˌpeɪɪŋ dʒɑb?",
+    "mine": "George có muốn một công việc lương cao không?",
+    "speaker": "question"
+  },
+  {
+    "id": 17,
+    "start": 107.443,
+    "end": 114.435,
+    "target": "Of course. He wanted a high-paying job.",
+    "ipa": "əv kɔɹs. hi ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb.",
+    "mine": "Tất nhiên rồi. Anh ấy muốn một công việc lương cao.",
+    "speaker": "answer"
+  },
+  {
+    "id": 18,
+    "start": 114.435,
+    "end": 120.894,
+    "target": "Did he want a high-paying job or a low-paying job?",
+    "ipa": "dɪd hi wɑnt ə ˈhaɪˌpeɪɪŋ dʒɑb ɔɹ ə ˈloʊˌpeɪɪŋ dʒɑb?",
+    "mine": "Anh ấy muốn một công việc lương cao hay lương thấp?",
+    "speaker": "question"
+  },
+  {
+    "id": 19,
+    "start": 122.355,
+    "end": 128.851,
+    "target": "A high-paying job! George wanted a high-paying job.",
+    "ipa": "ə ˈhaɪˌpeɪɪŋ dʒɑb! dʒɔɹdʒ ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb.",
+    "mine": "Một công việc lương cao! George muốn một công việc lương cao.",
+    "speaker": "answer"
+  },
+  {
+    "id": 20,
+    "start": 129.519,
+    "end": 133.93,
+    "target": "Did George want a low-paying job?",
+    "ipa": "dɪd dʒɔɹdʒ wɑnt ə ˈloʊˌpeɪɪŋ dʒɑb?",
+    "mine": "George có muốn một công việc lương thấp không?",
+    "speaker": "question"
+  },
+  {
+    "id": 21,
+    "start": 134.756,
+    "end": 141.565,
+    "target": "No. That doesn't make sense. No one wants a low-paying job.",
+    "ipa": "noʊ. ðæt ˈdʌzənt meɪk sɛns. noʊ wʌn wɑnts ə ˈloʊˌpeɪɪŋ dʒɑb.",
+    "mine": "Không. Điều đó chẳng hợp lý chút nào. Chẳng ai muốn một công việc lương thấp cả.",
+    "speaker": "answer"
+  },
+  {
+    "id": 22,
+    "start": 142.324,
+    "end": 150.197,
+    "target": "Did George or his kangaroo want a high-paying job?",
+    "ipa": "dɪd dʒɔɹdʒ ɔɹ hɪz ˌkæŋɡəˈruː wɑnt ə ˈhaɪˌpeɪɪŋ dʒɑb?",
+    "mine": "George hay con kangaroo của anh ấy muốn một công việc lương cao?",
+    "speaker": "question"
+  },
+  {
+    "id": 23,
+    "start": 150.98,
+    "end": 156.99,
+    "target": "George did! His kangaroo didn't want a job at all.",
+    "ipa": "dʒɔɹdʒ dɪd! hɪz ˌkæŋɡəˈruː ˈdɪdənt wɑnt ə dʒɑb ət ɔl.",
+    "mine": "George muốn! Con kangaroo của anh ấy hoàn toàn không muốn có việc làm.",
+    "speaker": "answer"
+  },
+  {
+    "id": 24,
+    "start": 157.592,
+    "end": 163.276,
+    "target": "Did George want a high-paying job, or did he have one?",
+    "ipa": "dɪd dʒɔɹdʒ wɑnt ə ˈhaɪˌpeɪɪŋ dʒɑb, ɔɹ dɪd hi hæv wʌn?",
+    "mine": "George muốn một công việc lương cao, hay anh ấy đã có một công việc như vậy?",
+    "speaker": "question"
+  },
+  {
+    "id": 25,
+    "start": 163.276,
+    "end": 169.219,
+    "target": "He wanted one. He wanted a high-paying job. He didn't have one.",
+    "ipa": "hi ˈwɑntɪd wʌn. hi ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb. hi ˈdɪdənt hæv wʌn.",
+    "mine": "Anh ấy muốn có một công việc như vậy. Anh ấy muốn một công việc lương cao. Nhưng anh ấy không có.",
+    "speaker": "answer"
+  },
+  {
+    "id": 26,
+    "start": 169.45,
+    "end": 177.637,
+    "target": "Everybody, George wanted a high-paying job, but he didn't have one.",
+    "ipa": "ˈɛvɹiˌbɑdi, dʒɔɹdʒ ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb, bət hi ˈdɪdənt hæv wʌn.",
+    "mine": "Mọi người, George muốn một công việc lương cao, nhưng anh ấy không có.",
+    "speaker": "AJ Hoge:"
+  },
+  {
+    "id": 27,
+    "start": 178.339,
+    "end": 182.522,
+    "target": "Who wanted a high-paying job?",
+    "ipa": "hu ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb?",
+    "mine": "Ai muốn một công việc lương cao?",
+    "speaker": "question"
+  },
+  {
+    "id": 28,
+    "start": 184.028,
+    "end": 190.109,
+    "target": "George. George wanted a high-paying job.",
+    "ipa": "dʒɔɹdʒ. dʒɔɹdʒ ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb.",
+    "mine": "George. George muốn một công việc lương cao.",
+    "speaker": "answer"
+  },
+  {
+    "id": 29,
+    "start": 190.935,
+    "end": 193.652,
+    "target": "What did George want?",
+    "ipa": "wʌt dɪd dʒɔɹdʒ wɑnt?",
+    "mine": "George muốn gì?",
+    "speaker": "question"
+  },
+  {
+    "id": 30,
+    "start": 194.669,
+    "end": 203.334,
+    "target": "A high-paying job. He wanted a high-paying job, but he didn't have one.",
+    "ipa": "ə ˈhaɪˌpeɪɪŋ dʒɑb. hi ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb, bət hi ˈdɪdənt hæv wʌn.",
+    "mine": "Một công việc lương cao. Anh ấy muốn một công việc lương cao, nhưng anh ấy không có.",
+    "speaker": "answer"
+  },
+  {
+    "id": 31,
+    "start": 204.591,
+    "end": 208.971,
+    "target": "Everybody, George wasn't happy.",
+    "ipa": "ˈɛvɹiˌbɑdi, dʒɔɹdʒ ˈwɑzənt ˈhæpi.",
+    "mine": "Mọi người ơi, George không vui.",
+    "speaker": "AJ Hoge:"
+  },
+  {
+    "id": 32,
+    "start": 210.72,
+    "end": 217.22,
+    "target": "\nGeorge wasn't happy because he had a low-paying job.",
+    "ipa": "dʒɔɹdʒ ˈwɑzənt ˈhæpi bɪˈkʌz hi hæd ə ˈloʊˌpeɪɪŋ dʒɑb.",
+    "mine": "George không vui vì anh ấy có một công việc lương thấp.",
+    "speaker": ""
+  },
+  {
+    "id": 33,
+    "start": 217.22,
+    "end": 221.439,
+    "target": "\nHe wanted a high-paying job, but he didn't have one.",
+    "ipa": "hi ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb, bət hi ˈdɪdənt hæv wʌn.",
+    "mine": "Anh ấy muốn một công việc lương cao, nhưng anh ấy không có.",
+    "speaker": ""
+  },
+  {
+    "id": 34,
+    "start": 222.531,
+    "end": 224.688,
+    "target": "Was George happy?",
+    "ipa": "wəz dʒɔɹdʒ ˈhæpi?",
+    "mine": "George có vui không?",
+    "speaker": "question"
+  },
+  {
+    "id": 35,
+    "start": 225.763,
+    "end": 230.109,
+    "target": "No, he wasn't happy.",
+    "ipa": "noʊ, hi ˈwɑzənt ˈhæpi.",
+    "mine": "Không, anh ấy không vui.",
+    "speaker": "answer"
+  },
+  {
+    "id": 36,
+    "start": 231.308,
+    "end": 234.757,
+    "target": "Was he happy or sad?",
+    "ipa": "wəz hi ˈhæpi ɔɹ sæd?",
+    "mine": "Anh ấy vui hay buồn?",
+    "speaker": "question"
+  },
+  {
+    "id": 37,
+    "start": 235.966,
+    "end": 241.548,
+    "target": "Sad! He was sad. He wasn't happy.",
+    "ipa": "sæd! hi wəz sæd. hi ˈwɑzənt ˈhæpi.",
+    "mine": "Buồn! Anh ấy buồn. Anh ấy không vui.",
+    "speaker": "answer"
+  },
+  {
+    "id": 38,
+    "start": 242.067,
+    "end": 244.135,
+    "target": "Was he angry?",
+    "ipa": "wəz hi ˈæŋɡɹi?",
+    "mine": "Anh ấy có tức giận không?",
+    "speaker": "question"
+  },
+  {
+    "id": 39,
+    "start": 245.051,
+    "end": 250.473,
+    "target": "That's right. He was also angry.",
+    "ipa": "ðæts raɪt. hi wəz ˈɔlsoʊ ˈæŋɡɹi.",
+    "mine": "Đúng rồi. Anh ấy cũng tức giận.",
+    "speaker": "answer"
+  },
+  {
+    "id": 40,
+    "start": 251.803,
+    "end": 254.539,
+    "target": "Was he sad or angry?",
+    "ipa": "wəz hi sæd ɔɹ ˈæŋɡɹi?",
+    "mine": "Anh ấy buồn hay tức giận?",
+    "speaker": "question"
+  },
+  {
+    "id": 41,
+    "start": 255.528,
+    "end": 263.709,
+    "target": "Both! He was sad AND angry, at the same time.",
+    "ipa": "boʊθ! hi wəz sæd ænd ˈæŋɡɹi, ət ðə seɪm taɪm.",
+    "mine": "Cả hai! Anh ấy vừa buồn VÀ vừa tức giận cùng một lúc.",
+    "speaker": "answer"
+  },
+  {
+    "id": 42,
+    "start": 264.492,
+    "end": 270.659,
+    "target": "Everybody, George was sad and angry at the same time.",
+    "ipa": "ˈɛvɹiˌbɑdi, dʒɔɹdʒ wəz sæd ænd ˈæŋɡɹi ət ðə seɪm taɪm.",
+    "mine": "Mọi người ơi, George vừa buồn vừa tức giận cùng một lúc.",
+    "speaker": "AJ Hoge:"
+  },
+  {
+    "id": 43,
+    "start": 272.434,
+    "end": 276.99,
+    "target": "Why was George sad and angry?",
+    "ipa": "waɪ wəz dʒɔɹdʒ sæd ænd ˈæŋɡɹi?",
+    "mine": "Tại sao George lại buồn và tức giận?",
+    "speaker": "question"
+  },
+  {
+    "id": 44,
+    "start": 278.425,
+    "end": 281.799,
+    "target": "Because he had a low-paying job.",
+    "ipa": "bɪˈkʌz hi hæd ə ˈloʊˌpeɪɪŋ dʒɑb.",
+    "mine": "Vì anh ấy có một công việc lương thấp.",
+    "speaker": "answer"
+  },
+  {
+    "id": 45,
+    "start": 281.799,
+    "end": 283.726,
+    "target": "He didn't make lots of money.",
+    "ipa": "hi ˈdɪdənt meɪk lɑts əv ˈmʌni.",
+    "mine": "Anh ấy không kiếm được nhiều tiền.",
+    "speaker": "answer"
+  },
+  {
+    "id": 46,
+    "start": 284.806,
+    "end": 289.904,
+    "target": "Did George have a high-paying job or a low-paying job?",
+    "ipa": "dɪd dʒɔɹdʒ hæv ə ˈhaɪˌpeɪɪŋ dʒɑb ɔɹ ə ˈloʊˌpeɪɪŋ dʒɑb?",
+    "mine": "George có công việc lương cao hay công việc lương thấp?",
+    "speaker": "question"
+  },
+  {
+    "id": 47,
+    "start": 290.638,
+    "end": 296.682,
+    "target": "A low-paying job! George had a low-paying job.",
+    "ipa": "ə ˈloʊˌpeɪɪŋ dʒɑb! dʒɔɹdʒ hæd ə ˈloʊˌpeɪɪŋ dʒɑb.",
+    "mine": "Một công việc lương thấp! George có một công việc lương thấp.",
+    "speaker": "answer"
+  },
+  {
+    "id": 48,
+    "start": 297.294,
+    "end": 301.825,
+    "target": "Did George want a low-paying job?",
+    "ipa": "dɪd dʒɔɹdʒ wɑnt ə ˈloʊˌpeɪɪŋ dʒɑb?",
+    "mine": "George có muốn một công việc lương thấp không?",
+    "speaker": "question"
+  },
+  {
+    "id": 49,
+    "start": 303.113,
+    "end": 308.292,
+    "target": "No! That's ridiculous. He wanted a high-paying job!",
+    "ipa": "noʊ! ðæts ɹɪˈdɪkjələs. hi ˈwɑntɪd ə ˈhaɪˌpeɪɪŋ dʒɑb!",
+    "mine": "Không! Thật vô lý. Anh ấy muốn một công việc lương cao!",
+    "speaker": "answer"
+  },
+  {
+    "id": 50,
+    "start": 308.292,
+    "end": 310.093,
+    "target": "He wanted to be rich!",
+    "ipa": "hi ˈwɑntɪd tə bi ɹɪtʃ!",
+    "mine": "Anh ấy muốn trở nên giàu có!",
+    "speaker": "answer"
+  },
+  {
+    "id": 51,
+    "start": 310.97,
+    "end": 314.48,
+    "target": "Did he make lots of money?",
+    "ipa": "dɪd hi meɪk lɑts əv ˈmʌni?",
+    "mine": "Anh ấy có kiếm được nhiều tiền không?",
+    "speaker": "question"
+  },
+  {
+    "id": 52,
+    "start": 315.942,
+    "end": 320.65,
+    "target": "No, he didn't. He made little money.",
+    "ipa": "noʊ, hi ˈdɪdənt. hi meɪd ˈlɪtəl ˈmʌni.",
+    "mine": "Không, anh ấy không kiếm được nhiều tiền. Anh ấy kiếm được rất ít tiền.",
+    "speaker": "answer"
+  },
+  {
+    "id": 53,
+    "start": 321.221,
+    "end": 325.636,
+    "target": "Did he make lots of money or little money?",
+    "ipa": "dɪd hi meɪk lɑts əv ˈmʌni ɔɹ ˈlɪtəl ˈmʌni?",
+    "mine": "Anh ấy kiếm được nhiều tiền hay ít tiền?",
+    "speaker": "question"
+  },
+  {
+    "id": 54,
+    "start": 326.238,
+    "end": 331.406,
+    "target": "Little money. George made little money.",
+    "ipa": "ˈlɪtəl ˈmʌni. dʒɔɹdʒ meɪd ˈlɪtəl ˈmʌni.",
+    "mine": "Ít tiền. George kiếm được ít tiền.",
+    "speaker": "answer"
+  },
+  {
+    "id": 55,
+    "start": 332.665,
+    "end": 338.293,
+    "target": "Everybody, George was flat broke.",
+    "ipa": "ˈɛvɹiˌbɑdi, dʒɔɹdʒ wəz flæt broʊk.",
+    "mine": "Mọi người, George hoàn toàn cháy túi.",
+    "speaker": "AJ Hoge:"
+  },
+  {
+    "id": 56,
+    "start": 339.829,
+    "end": 346.984,
+    "target": "\"Flat broke\" means he had almost no money at all.",
+    "ipa": "flæt broʊk minz hi hæd ˈɔlmoʊst noʊ ˈmʌni ət ɔl.",
+    "mine": "\"Flat broke\" có nghĩa là anh ấy gần như không có đồng nào.",
+    "speaker": ""
+  },
+  {
+    "id": 57,
+    "start": 348.453,
+    "end": 352.446,
+    "target": "Was George flat broke?",
+    "ipa": "wəz dʒɔɹdʒ flæt broʊk?",
+    "mine": "George có cháy túi không?",
+    "speaker": "question"
+  },
+  {
+    "id": 58,
+    "start": 353.516,
+    "end": 359.226,
+    "target": "Yes! He was flat broke. He had almost no money.",
+    "ipa": "jɛs! hi wəz flæt broʊk. hi hæd ˈɔlmoʊst noʊ ˈmʌni.",
+    "mine": "Có! Anh ấy cháy túi. Anh ấy gần như không có tiền.",
+    "speaker": "answer"
+  },
+  {
+    "id": 59,
+    "start": 359.811,
+    "end": 366.372,
+    "target": "Was George rich, or was he flat broke?",
+    "ipa": "wəz dʒɔɹdʒ ɹɪtʃ, ɔɹ wəz hi flæt broʊk?",
+    "mine": "George giàu hay cháy túi?",
+    "speaker": "question"
+  },
+  {
+    "id": 60,
+    "start": 367.991,
+    "end": 374.103,
+    "target": "Flat broke! George was flat broke.",
+    "ipa": "flæt broʊk! dʒɔɹdʒ wəz flæt broʊk.",
+    "mine": "Cháy túi! George cháy túi.",
+    "speaker": "answer"
+  },
+  {
+    "id": 61,
+    "start": 374.362,
+    "end": 377.407,
+    "target": "He wasn't rich at all.",
+    "ipa": "hi ˈwɑzənt ɹɪtʃ ət ɔl.",
+    "mine": "Anh ấy hoàn toàn không giàu.",
+    "speaker": "answer"
+  },
+  {
+    "id": 62,
+    "start": 378.5,
+    "end": 382.909,
+    "target": "Did making little money make him sad and angry?",
+    "ipa": "dɪd ˈmeɪkɪŋ ˈlɪtəl ˈmʌni meɪk hɪm sæd ænd ˈæŋɡɹi?",
+    "mine": "Việc kiếm được ít tiền có khiến anh ấy buồn và tức giận không?",
+    "speaker": "question"
+  },
+  {
+    "id": 63,
+    "start": 384.095,
+    "end": 392.232,
+    "target": "Of course! Being flat broke made him sad. It made him angry.",
+    "ipa": "əv kɔɹs! ˈbiɪŋ flæt broʊk meɪd hɪm sæd. ɪt meɪd hɪm ˈæŋɡɹi.",
+    "mine": "Tất nhiên rồi! Việc cháy túi khiến anh ấy buồn. Nó khiến anh ấy tức giận.",
+    "speaker": "answer"
+  },
+  {
+    "id": 64,
+    "start": 393.137,
+    "end": 395.031,
+    "target": "Who wasn't happy?",
+    "ipa": "hu ˈwɑzənt ˈhæpi?",
+    "mine": "Ai không vui?",
+    "speaker": "question"
+  },
+  {
+    "id": 65,
+    "start": 395.031,
+    "end": 403.457,
+    "target": "George. George wasn't happy. He was sad and angry.",
+    "ipa": "dʒɔɹdʒ. dʒɔɹdʒ ˈwɑzənt ˈhæpi. hi wəz sæd ænd ˈæŋɡɹi.",
+    "mine": "George. George không vui. Anh ấy buồn và tức giận.",
+    "speaker": "answer"
+  },
+  {
+    "id": 66,
+    "start": 404.808,
+    "end": 406.848,
+    "target": "Why wasn't George happy?",
+    "ipa": "waɪ ˈwɑzənt dʒɔɹdʒ ˈhæpi?",
+    "mine": "Tại sao George không vui?",
+    "speaker": "question"
+  },
+  {
+    "id": 67,
+    "start": 406.848,
+    "end": 416.196,
+    "target": "Because he had a low-paying job, and he was flat broke.",
+    "ipa": "bɪˈkʌz hi hæd ə ˈloʊˌpeɪɪŋ dʒɑb, ænd hi wəz flæt broʊk.",
+    "mine": "Vì anh ấy có một công việc lương thấp và lại cháy túi.",
+    "speaker": "answer"
+  },
+  {
+    "id": 68,
+    "start": 416.784,
+    "end": 422.657,
+    "target": "Did George want to be rich or to be poor?",
+    "ipa": "dɪd dʒɔɹdʒ wɑnt tə bi ɹɪtʃ ɔɹ tə bi pʊr?",
+    "mine": "George muốn giàu hay nghèo?",
+    "speaker": "question"
+  },
+  {
+    "id": 69,
+    "start": 423.901,
+    "end": 430.227,
+    "target": "Rich! He wanted to be rich. It's obvious.",
+    "ipa": "ɹɪtʃ! hi ˈwɑntɪd tə bi ɹɪtʃ. ɪts ˈɑbviəs.",
+    "mine": "Giàu! Anh ấy muốn giàu. Rõ ràng mà.",
+    "speaker": "answer"
+  },
+  {
+    "id": 70,
+    "start": 430.227,
+    "end": 436.291,
+    "target": "Did he want to be flat broke?",
+    "ipa": "dɪd hi wɑnt tə bi flæt broʊk?",
+    "mine": "Anh ấy có muốn cháy túi không?",
+    "speaker": "question"
+  },
+  {
+    "id": 71,
+    "start": 437.006,
+    "end": 443.625,
+    "target": "No! He didn't. That's ridiculous.",
+    "ipa": "noʊ! hi ˈdɪdənt. ðæts ɹɪˈdɪkjələs.",
+    "mine": "Không! Anh ấy không muốn. Thật vô lý.",
+    "speaker": "answer"
+  },
+  {
+    "id": 72,
+    "start": 443.625,
+    "end": 445.513,
+    "target": "No one wants to be flat broke.",
+    "ipa": "noʊ wʌn wɑnts tə bi flæt broʊk.",
+    "mine": "Chẳng ai muốn cháy túi cả.",
+    "speaker": "answer"
+  },
+  {
+    "id": 73,
+    "start": 445.513,
+    "end": 447.562,
+    "target": "He wanted to be rich.",
+    "ipa": "hi ˈwɑntɪd tə bi ɹɪtʃ.",
+    "mine": "Anh ấy muốn giàu.",
+    "speaker": "answer"
+  },
+  {
+    "id": 74,
+    "start": 448.341,
+    "end": 453.339,
+    "target": "Everybody, George wasn't happy.",
+    "ipa": "ˈɛvɹiˌbɑdi, dʒɔɹdʒ ˈwɑzənt ˈhæpi.",
+    "mine": "Mọi người, George không vui.",
+    "speaker": "AJ Hoge:"
+  },
+  {
+    "id": 75,
+    "start": 453.904,
+    "end": 459.06,
+    "target": "\nHe was sad and angry, at the same time.",
+    "ipa": "hi wəz sæd ænd ˈæŋɡɹi, ət ðə seɪm taɪm.",
+    "mine": "Anh ấy vừa buồn vừa tức giận cùng một lúc.",
+    "speaker": ""
+  },
+  {
+    "id": 76,
+    "start": 459.54,
+    "end": 462.247,
+    "target": "\nHe had a low-paying job.",
+    "ipa": "hi hæd ə ˈloʊˌpeɪɪŋ dʒɑb.",
+    "mine": "Anh ấy có một công việc lương thấp.",
+    "speaker": ""
+  },
+  {
+    "id": 77,
+    "start": 462.619,
+    "end": 464.468,
+    "target": "\nHe was flat broke.",
+    "ipa": "hi wəz flæt broʊk.",
+    "mine": "Anh ấy cháy túi.",
+    "speaker": ""
+  },
+  {
+    "id": 78,
+    "start": 465.003,
+    "end": 467.398,
+    "target": "\nHe wanted to be rich.",
+    "ipa": "hi ˈwɑntɪd tə bi ɹɪtʃ.",
+    "mine": "Anh ấy muốn giàu.",
+    "speaker": ""
+  },
+  {
+    "id": 79,
+    "start": 467.914,
+    "end": 470.267,
+    "target": "\nBut he didn't have a high-paying job.",
+    "ipa": "bət hi ˈdɪdənt hæv ə ˈhaɪˌpeɪɪŋ dʒɑb.",
+    "mine": "Nhưng anh ấy không có một công việc lương cao.",
+    "speaker": ""
+  },
+  {
+    "id": 80,
+    "start": 470.735,
+    "end": 472.691,
+    "target": "\nSo George wasn't happy.",
+    "ipa": "soʊ dʒɔɹdʒ ˈwɑzənt ˈhæpi.",
+    "mine": "Vì vậy, George không vui.",
+    "speaker": ""
+  }
+]
